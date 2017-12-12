@@ -5,6 +5,7 @@
 header{
 	background-image: url(../image/1.jpg);
 	height:750px;
+	margin: 0px auto;
 }
 .logo{
 	padding-top: 40px;
@@ -35,4 +36,54 @@ header{
 	color: white;
 	border-radius: 3%;
 }
-
+.features__content{
+	text-align: center;
+	padding:45px;
+	margin:70px auto;
+}
+.features__description{
+	padding: 45px;	
+}
+.description__title{
+	font-weight: bolder;
+	margin: 20px;
+}
+.description__text{
+	color:darkgrey;
+}
+.work__model{
+	overflow: hidden;
+	margin:0; 
+	padding: 1px;
+}
+footer {
+	background:#3A3E64;
+}
+.last__content{
+	text-align: center;
+}
+.credit__thing{
+	padding: 20px;
+}
+.credit__title{
+	color: white;
+	font-weight: 500;
+	font-size: 12px;
+}
+.credit__text{
+	color: darkgrey;
+	font-size: 12px;
+}
+.grand__finalle{
+	color: darkgrey;
+	text-align: center;
+	background:#313454;
+	padding: 10px;
+}
+.social__media img{
+	width: 25px;
+	height: 25px;
+	padding: 5px;
+	margin:5px;
+	border:1px solid white;
+}
