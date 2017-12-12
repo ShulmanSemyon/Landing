@@ -1,0 +1,38 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+header {
+	background-image: url(../image/1.jpg);
+	height: 750px;
+}
+.logo {
+	padding-top:40px;
+}
+.menu__nav{
+	display: inline-block;
+	float: right;
+}
+.menu__items{
+	float: left;
+	list-style: none;
+	padding: 40px 10px;
+}
+.menu__items a{
+	text-decoration: none;
+	color: white;
+
+}
+.header__text {
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+}
+.button{
+	margin: 70px auto;
+	padding: 10px;
+	text-align: center;
+	height: 45px;
+	background-color: red;
+	color: white;
+}
