@@ -56,6 +56,11 @@ header{
 	margin:0; 
 	padding: 1px;
 }
+
+.form__info{
+	text-align: center;
+}
+
 footer {
 	background:#3A3E64;
 }
